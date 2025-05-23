@@ -1,1 +1,31 @@
+git clone https://github.com/kimnganphan92/ngan-redi-school-git-assignment.git
 
+Downloads a repository to local machine.
+
+git status
+
+Check any change of repository
+
+git add command.txt
+
+Stages changes for the next commit.
+
+git commit -m "Here is a meaningful message: Life is amazing"
+
+Saves staged changes with a message.
+
+git config --global user.name "Kim Ngan Phan"
+
+Sets global Git username.
+
+git config --global user.email "kimnganphan9@gmail.com"
+
+Set global Git email.
+
+git commit --amend --reset-author
+
+Modifies the last commit and resets its author.
+
+git push 
+
+Uploads local commits to a remote repository.
